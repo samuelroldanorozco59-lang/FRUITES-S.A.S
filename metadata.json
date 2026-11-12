@@ -1,0 +1,6 @@
+{
+  "name": "FRUITES - Snacks de Frutas Tropicales Deshidratadas",
+  "description": "Sitio web oficial de FRUITES. Snacks de frutas tropicales deshidratadas con empaque resellable y energía tropical desde Colombia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
